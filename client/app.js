@@ -1,4 +1,5 @@
 ///<reference path="../typings/tsd.d.ts" />
+///<reference path="../model/Creature/Player/Player.ts"/>
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") return Reflect.decorate(decorators, target, key, desc);
     switch (arguments.length) {
@@ -10,23 +11,23 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-/**
- * Created by martinmajewski on 21.08.15.
- */
-var angular2_1 = require('angular2/angular2');
-var Socially = (function () {
-    function Socially() {
-    }
-    Socially = __decorate([
-        angular2_1.Component({
-            selector: 'app'
-        }),
-        angular2_1.View({
-            template: "<p>Hello World!</p>"
-        }), 
-        __metadata('design:paramtypes', [])
-    ], Socially);
-    return Socially;
-})();
-angular2_1.bootstrap(Socially);
+define(["require", "exports", 'angular2/angular2', '../model/Creature/Player/Player'], function (require, exports, angular2_1, Player_1) {
+    var Socially = (function () {
+        function Socially() {
+            this.player = new Player_1.Player("Martin", "Majewski", 100);
+            console.log("Player " + this.player.getFullName() + " created!");
+        }
+        Socially = __decorate([
+            angular2_1.Component({
+                selector: 'app'
+            }),
+            angular2_1.View({
+                templateUrl: "client/views/main.ng.html"
+            }), 
+            __metadata('design:paramtypes', [])
+        ], Socially);
+        return Socially;
+    })();
+    angular2_1.bootstrap(Socially);
+});
 //# sourceMappingURL=app.js.map

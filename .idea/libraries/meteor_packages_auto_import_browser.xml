@@ -31,6 +31,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/logging/1.0.7/web.browser/packages/logging.js" />
         <item url="file://$USER_HOME$/.meteor/packages/mobile-status-bar/1.0.3/web.browser/packages/mobile-status-bar.js" />
         <item url="file://$USER_HOME$/.meteor/packages/tracker/1.0.7/web.browser/packages/tracker.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/aramk_requirejs/2.1.15_1/web.browser/packages/aramk:requirejs.js" />
         <item url="file://$USER_HOME$/.meteor/packages/underscore/1.0.3/web.browser/packages/underscore.js" />
         <item url="file://$USER_HOME$/.meteor/packages/retry/1.0.3/web.browser/packages/retry.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.3/web.browser/packages/blaze-tools.js" />
@@ -39,9 +40,9 @@
         <item url="file://$USER_HOME$/.meteor/packages/launch-screen/1.0.2/web.browser/packages/launch-screen.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp-hashing/1.0.3/web.browser/packages/webapp-hashing.js" />
         <item url="file://$USER_HOME$/.meteor/packages/http/1.1.0/web.browser/packages/http.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/shmck_angular2/2.0.4/web.browser/packages/shmck_angular2.js" />
         <item url="file://$USER_HOME$/.meteor/packages/autopublish/1.0.3/web.browser/packages/autopublish.js" />
         <item url="file://$USER_HOME$/.meteor/packages/geojson-utils/1.0.3/web.browser/packages/geojson-utils.js" />
-        <item url="file://$USER_HOME$/.meteor/packages/shmck_angular2/2.0.3/web.browser/packages/shmck_angular2.js" />
         <item url="file://$USER_HOME$/.meteor/packages/spacebars/1.0.6/web.browser/packages/spacebars.js" />
         <item url="file://$USER_HOME$/.meteor/packages/reactive-var/1.0.5/web.browser/packages/reactive-var.js" />
         <item url="file://$USER_HOME$/.meteor/packages/meteor-platform/1.2.2/web.browser/packages/meteor-platform.js" />
@@ -80,6 +81,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/logging/1.0.7/web.browser/packages/logging.js" />
       <root url="file://$USER_HOME$/.meteor/packages/mobile-status-bar/1.0.3/web.browser/packages/mobile-status-bar.js" />
       <root url="file://$USER_HOME$/.meteor/packages/tracker/1.0.7/web.browser/packages/tracker.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/aramk_requirejs/2.1.15_1/web.browser/packages/aramk:requirejs.js" />
       <root url="file://$USER_HOME$/.meteor/packages/underscore/1.0.3/web.browser/packages/underscore.js" />
       <root url="file://$USER_HOME$/.meteor/packages/retry/1.0.3/web.browser/packages/retry.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.3/web.browser/packages/blaze-tools.js" />
@@ -88,9 +90,9 @@
       <root url="file://$USER_HOME$/.meteor/packages/launch-screen/1.0.2/web.browser/packages/launch-screen.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp-hashing/1.0.3/web.browser/packages/webapp-hashing.js" />
       <root url="file://$USER_HOME$/.meteor/packages/http/1.1.0/web.browser/packages/http.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/shmck_angular2/2.0.4/web.browser/packages/shmck_angular2.js" />
       <root url="file://$USER_HOME$/.meteor/packages/autopublish/1.0.3/web.browser/packages/autopublish.js" />
       <root url="file://$USER_HOME$/.meteor/packages/geojson-utils/1.0.3/web.browser/packages/geojson-utils.js" />
-      <root url="file://$USER_HOME$/.meteor/packages/shmck_angular2/2.0.3/web.browser/packages/shmck_angular2.js" />
       <root url="file://$USER_HOME$/.meteor/packages/spacebars/1.0.6/web.browser/packages/spacebars.js" />
       <root url="file://$USER_HOME$/.meteor/packages/reactive-var/1.0.5/web.browser/packages/reactive-var.js" />
       <root url="file://$USER_HOME$/.meteor/packages/meteor-platform/1.2.2/web.browser/packages/meteor-platform.js" />

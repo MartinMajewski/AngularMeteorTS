@@ -2,6 +2,6 @@
 <project version="4">
   <component name="TypeScriptCompiler">
     <option name="isCompilerEnabled" value="true" />
-    <option name="typeScriptCompilerParams" value="--watch -m commonjs -t es5 --experimentalDecorators --emitDecoratorMetadata" />
+    <option name="typeScriptCompilerParams" value="--watch -m AMD -t es5 --experimentalDecorators --emitDecoratorMetadata" />
   </component>
 </project>
